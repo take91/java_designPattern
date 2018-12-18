@@ -1,0 +1,4 @@
+
+public abstract class AbstGameConnectHelper {
+	public String doSecurity(String String)
+}

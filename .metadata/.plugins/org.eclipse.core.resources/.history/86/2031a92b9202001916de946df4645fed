@@ -1,0 +1,6 @@
+
+public abstract class AbstGameConnectHelper {
+	String doSecurity(String String);
+	boolean authentication(String id, String password);
+	authorization(String username);
+}
