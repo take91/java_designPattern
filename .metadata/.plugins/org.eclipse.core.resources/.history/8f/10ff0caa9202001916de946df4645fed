@@ -1,9 +1,0 @@
-
-public abstract class AbstGameConnectHelper {
-	pro abstract String doSecurity(String String);
-	abstract boolean authentication(String id, String password);
-
-	abstract int authorization(String username);
-
-	abstract String connection(String info);
-}
