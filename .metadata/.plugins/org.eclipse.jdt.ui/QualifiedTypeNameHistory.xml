@@ -7,4 +7,11 @@
 <fullyQualifiedTypeName name="concrete.HpPotion"/>
 <fullyQualifiedTypeName name="framework.ItemCreator"/>
 <fullyQualifiedTypeName name="concrete.HpCreator"/>
+<fullyQualifiedTypeName name="Ainterface"/>
+<fullyQualifiedTypeName name="AinterfaceImpl"/>
+<fullyQualifiedTypeName name="com.take91.st.GameCharacter"/>
+<fullyQualifiedTypeName name="SystemSpeaker"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="Circle"/>
+<fullyQualifiedTypeName name="Shape"/>
 </qualifiedTypeNameHistroy>
