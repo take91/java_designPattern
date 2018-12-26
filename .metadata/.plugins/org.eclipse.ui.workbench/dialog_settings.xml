@@ -22,8 +22,9 @@
 		</list>
 	</section>
 	<section name="PreferencesImportWizard">
-		<item value="/Users/Sarkh/Documents/theme-1.epf" key=""/>
+		<item value="E:\theme-1.epf" key=""/>
 		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\theme-1.epf"/>
 			<item value="/Users/Sarkh/Documents/theme-1.epf"/>
 		</list>
 	</section>

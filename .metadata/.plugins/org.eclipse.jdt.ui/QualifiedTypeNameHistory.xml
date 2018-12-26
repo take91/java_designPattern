@@ -17,4 +17,8 @@
 <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlInlineBinaryData"/>
 <fullyQualifiedTypeName name="Computer"/>
 <fullyQualifiedTypeName name="ComputerBuilder"/>
+<fullyQualifiedTypeName name="com.take91.abst.BikeFactory"/>
+<fullyQualifiedTypeName name="com.take91.Sam.SamFactory"/>
+<fullyQualifiedTypeName name="com.take91.Sam.SamBody"/>
+<fullyQualifiedTypeName name="com.take91.Sam.SamWheel"/>
 </qualifiedTypeNameHistroy>
