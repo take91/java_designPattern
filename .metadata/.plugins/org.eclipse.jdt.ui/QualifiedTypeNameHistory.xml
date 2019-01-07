@@ -21,4 +21,13 @@
 <fullyQualifiedTypeName name="com.take91.Sam.SamFactory"/>
 <fullyQualifiedTypeName name="com.take91.Sam.SamBody"/>
 <fullyQualifiedTypeName name="com.take91.Sam.SamWheel"/>
+<fullyQualifiedTypeName name="linux.LinuxTextArea"/>
+<fullyQualifiedTypeName name="linux.LinuxButton"/>
+<fullyQualifiedTypeName name="abst.GuiFac"/>
+<fullyQualifiedTypeName name="linux.LinuxGuiFac"/>
+<fullyQualifiedTypeName name="abst.TextArea"/>
+<fullyQualifiedTypeName name="mac.MacButton"/>
+<fullyQualifiedTypeName name="mac.MacTextArea"/>
+<fullyQualifiedTypeName name="concrete.FactoryInstance"/>
+<fullyQualifiedTypeName name="mac.MacGuiFac"/>
 </qualifiedTypeNameHistroy>
