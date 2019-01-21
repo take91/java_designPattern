@@ -17,4 +17,7 @@
 <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlInlineBinaryData"/>
 <fullyQualifiedTypeName name="Computer"/>
 <fullyQualifiedTypeName name="ComputerBuilder"/>
+<fullyQualifiedTypeName name="aa.B"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>
