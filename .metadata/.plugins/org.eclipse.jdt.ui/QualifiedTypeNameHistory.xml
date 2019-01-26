@@ -18,6 +18,12 @@
 <fullyQualifiedTypeName name="Computer"/>
 <fullyQualifiedTypeName name="ComputerBuilder"/>
 <fullyQualifiedTypeName name="aa.B"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="PrintMorseCode"/>
+<fullyQualifiedTypeName name="DefaultMCF"/>
+<fullyQualifiedTypeName name="MorseCodeFunction"/>
+<fullyQualifiedTypeName name="SoundMCF"/>
+<fullyQualifiedTypeName name="FlashMCF"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
