@@ -26,4 +26,14 @@
 <fullyQualifiedTypeName name="FlashMCF"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.de.abst.AbstAdding"/>
+<fullyQualifiedTypeName name="com.de.abst.IBeverage"/>
+<fullyQualifiedTypeName name="com.de.concrete.Espresso"/>
+<fullyQualifiedTypeName name="Main"/>
+<fullyQualifiedTypeName name="com.de.concrete.Milk"/>
+<fullyQualifiedTypeName name="Visitor"/>
+<fullyQualifiedTypeName name="Visitable"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="VisitableA"/>
+<fullyQualifiedTypeName name="VisitorA"/>
 </qualifiedTypeNameHistroy>

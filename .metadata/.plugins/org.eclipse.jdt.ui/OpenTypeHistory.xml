@@ -5,4 +5,7 @@
 <typeInfo handle="=BridgePattern/src&lt;{MorseCode.java[MorseCode" modifiers="1" timestamp="1548052415000"/>
 <typeInfo handle="=BridgePattern/src&lt;{MorseCodeFunction.java[MorseCodeFunction" modifiers="513" timestamp="1548052250000"/>
 <typeInfo handle="=CompositePattern/src&lt;{Component.java[Component" modifiers="1025" timestamp="1548054894000"/>
+<typeInfo handle="=DecratorPattern/src&lt;com.de.concrete{Base.java[Base" modifiers="1" timestamp="1548666834000"/>
+<typeInfo handle="=VisitorPattern/src&lt;{Visitor.java[Visitor" modifiers="513" timestamp="1548668338000"/>
+<typeInfo handle="=VisitorPattern/src&lt;{Visitable.java[Visitable" modifiers="513" timestamp="1548668380000"/>
 </typeInfoHistroy>
