@@ -36,4 +36,6 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="VisitableA"/>
 <fullyQualifiedTypeName name="VisitorA"/>
+<fullyQualifiedTypeName name="Calculator"/>
+<fullyQualifiedTypeName name="Request"/>
 </qualifiedTypeNameHistroy>
